@@ -161,11 +161,11 @@ hr {
     padding: 0px 2px 1px;
 }
 
-#zocial-oidc li {
+#kc-social-providers li {
     list-style-type: none;
 }
 
-#zocial-oidc li a {
+#kc-social-providers li a {
     text-decoration: none;
     color: #333;
     list-style-type: none;
