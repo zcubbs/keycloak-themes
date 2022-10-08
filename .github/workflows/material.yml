@@ -15,6 +15,7 @@ on:
     branches: [ main ]
 
 env:
+  NAME: material
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}-material
 
